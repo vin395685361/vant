@@ -1,3 +1,4 @@
+``` javascript
 <script>
 export default {
   methods: {
@@ -22,7 +23,7 @@ export default {
   }
 }
 </style>
-
+```
 ## Cell 单元格
 
 ### 使用指南
